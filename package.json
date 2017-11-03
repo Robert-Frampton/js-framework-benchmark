@@ -6,7 +6,7 @@
     "build": "node install.js && node build.js",
     "build-prod": "node install.js && node build.js",
     "compile": "node install.js && node build.js",
-    "start": "http-server -c-1 .",
+    "start": "http-server -p 3000 -c-1 .",
     "selenium": "cd webdriver-ts && npm run selenium && npm run results",
     "check": "cd webdriver-ts && npm run selenium -- --count 1 --exitOnError true"
   },
