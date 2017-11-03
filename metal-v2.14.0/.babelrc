@@ -1,0 +1,4 @@
+{
+	presets: ["metal-jsx", "es2015"],
+	plugins: []
+}
