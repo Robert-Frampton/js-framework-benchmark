@@ -85,3 +85,7 @@ export class Row extends Component {
 	}
 }
 
+Row.PROPS = {
+	data: {},
+	styleClass: {}
+};
