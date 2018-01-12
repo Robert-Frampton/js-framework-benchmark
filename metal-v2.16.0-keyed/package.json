@@ -12,7 +12,7 @@
     "webpack"
   ],
   "dependencies": {
-    "metal-jsx": "^2.15.0"
+    "metal-jsx": "^2.16.0"
   },
   "devDependencies": {
     "babel-core": "^6.26.0",
